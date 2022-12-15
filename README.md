@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Agustinm96
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning JAVA 
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me agustinmalvarezok@gmail.com
 
